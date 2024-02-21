@@ -1,0 +1,69 @@
+@charset "utf-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Yuji+Syuku&display=swap');
+
+:root {
+  --color-primary: #e24131;
+}
+
+body {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Yuji Syuku", serif;
+  background: url(bg.jpg) no-repeat center/cover;
+}
+
+main {
+  width: 240px;
+  margin: 32px auto;
+}
+
+section {
+  color: var(--color-primary);
+  text-align: center;
+  border: 4px double var(--color-primary);
+}
+
+h1, p {
+  background: #fff;
+  margin: 0;
+}
+
+h1 {
+  border-bottom: 2px solid var(--color-primary);
+  font-weight: normal;
+  padding: 8px 0;
+}
+
+p {
+  font-size: 36px;
+  font-weight: bold;
+  padding: 24px 0;
+}
+
+button {
+  all: unset;
+  width: 100%;
+  text-align: center;
+  color: #FFF;
+  background: var(--color-primary);
+  border-radius: 8px;
+  padding: 8px 0;
+  margin-top: 16px;
+  box-shadow: 0 4px #7a0000;
+  cursor: pointer;
+  opacity: 1;
+  transition: opacity .3s;
+}
+
+button:hover {
+  opacity: .8;
+}
+
+button:active {
+  box-shadow: 0 1px #7a0000;
+  transform: translateY(3px)
+}
