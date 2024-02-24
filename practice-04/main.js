@@ -9,41 +9,21 @@
 
     const ul = document.createElement("ul");
 
-    const li0 = document.createElement('li');
-    li0.textContent = quiz[1];
-    li0.addEventListener('click', () => {
-      if (quiz[4] === 0) {
-        li0.classList.add('correct');
-      } else {
-        li0.classList.add('wrong');
-      }
-    });
-
-    const li1 = document.createElement('li');
-    li1.textContent = quiz[2];
-    li1.addEventListener('click', () => {
-      if (quiz[4] === 1) {
-        li1.classList.add('correct');
-      } else {
-        li1.classList.add('wrong');
-      }
-    });
-
-    const li2 = document.createElement('li');
-    li2.textContent = quiz[3];
-    li2.addEventListener('click', () => {
-      if (quiz[4] === 2) {
-        li2.classList.add('correct');
-      } else {
-        li2.classList.add('wrong');
-      }
-    });
-
     section.appendChild(h2);
     section.appendChild(ul);
-    ul.appendChild(li0);
-    ul.appendChild(li1);
-    ul.appendChild(li2);
+
+    for (let i = 0; i < 3; i++) {
+      const li = document.createElement("li");
+      li.textContent = quiz[i + 1];
+      li.addEventListener("click", () => {
+        if (quiz[4] === i) {
+          li.classList.add("correct");
+        } else {
+          li.classList.add("wrong");
+        }
+      });
+      ul.appendChild(li);
+    }
     main.appendChild(section);
   }
 
