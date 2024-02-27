@@ -1,0 +1,60 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+  letter-spacing: .04em;
+  line-height: 1.75;
+  padding: 0;
+  margin: 0;
+}
+
+main {
+  width: 360px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 22px;
+  text-align: center;
+  margin: 0;
+}
+
+textarea {
+  width: 100%;
+  height: 160px;
+  max-height: 350px;
+  resize: vertical;
+  font-size: 16px;
+  padding: 8px;
+  margin-top: 6px;
+  box-sizing: border-box;
+}
+
+#message {
+  font-size: 14px;
+  margin-right: auto;
+  opacity: 0;
+  transition: opacity 300ms;
+}
+
+#words {
+  margin-right: 4px;
+}
+
+button {
+  padding: 4px 16px;
+  cursor: pointer;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  margin-top: 8px;
+}
+
+.appear {
+  opacity: 1;
+}
