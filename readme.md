@@ -1,18 +1,20 @@
 ## 📚 JavaScript Practice
 
-### [🔮 Fortune App](./practice-01)
+### 🔮 Fortune App
 配列および`Math.random`で、結果をランダムに生成
 
 https://codepen.io/erika_tech/pen/eYXoPbr
 
 
-### [🔧 Password Generator](./practice-02/)
+
+### 🔧 Password Generator
 `Math.random`の応用
 
 https://codepen.io/erika_tech/pen/xxBNLKw
 
 
-### [⏱️ Countdown Timer](./practice-03/)
+
+### ⏱️ Countdown Timer
 `new Date().getTime()`で、現在時刻の取得
 
 `setInterval()`で、タイマーのセット
@@ -23,24 +25,32 @@ https://codepen.io/erika_tech/pen/xxBNLKw
 
 https://codepen.io/erika_tech/pen/xxBoKWW
 
-### [🧐 Quiz App](./practice-04/)
+
+
+### 🧐 Quiz App
 配列を使ったクイズの管理およびループ処理
 
 https://codepen.io/erika_tech/pen/JjzQvPj
 
-### [🎞️ Loop Slider](./practice-05/)
+
+
+### 🎞️ Loop Slider
 サムネイル付きスープスライダー
 
 https://codepen.io/erika_tech/pen/vYPoqwE
 
-### [🔠 Memo App](./practice-06/)
+
+
+### 🔠 Memo App
 `localStorage` を使った保存・削除
 
 文字カウント機能の追加
 
 https://codepen.io/erika_tech/pen/abMexRz
 
-### [🗒️ BINGO](./practice-07/)
+
+
+### 🗒️ BINGO
 配列の中に配列をランダムで生成
 
 https://codepen.io/erika_tech/pen/BabXgbL
