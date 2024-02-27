@@ -29,3 +29,10 @@ https://codepen.io/erika_tech/pen/xxBoKWW
 https://codepen.io/erika_tech/pen/JjzQvPj
 
 ### 🎞️ Loop Slider
+
+### 🔠 Memo App
+`localStorage` を使った保存・削除
+
+文字カウント機能の追加
+
+https://codepen.io/erika_tech/pen/abMexRz
