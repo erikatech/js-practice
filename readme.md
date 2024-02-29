@@ -47,3 +47,6 @@ https://codepen.io/erika_tech/pen/BabXgbL
 
 https://codepen.io/erika_tech/pen/gOyYoJG
 
+### ⏱️ Stopwatch
+
+https://codepen.io/erika_tech/pen/mdgdemv
