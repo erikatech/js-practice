@@ -31,7 +31,7 @@ https://codepen.io/erika_tech/pen/JjzQvPj
 
 https://codepen.io/erika_tech/pen/vYPoqwE
 
-### 🔠 Memo App
+### ✏️ Memo App
 `localStorage` を使った保存・削除
 
 文字カウント機能の追加
@@ -51,6 +51,6 @@ https://codepen.io/erika_tech/pen/gOyYoJG
 
 https://codepen.io/erika_tech/pen/mdgdemv
 
-### Typing Game v1.0.0
+### 🔤Typing Game v1.0.0
 
 https://codepen.io/erika_tech/pen/xxexaYB
