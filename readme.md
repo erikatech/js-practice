@@ -50,3 +50,7 @@ https://codepen.io/erika_tech/pen/gOyYoJG
 ### ⏱️ Stopwatch
 
 https://codepen.io/erika_tech/pen/mdgdemv
+
+### Typing Game v1.0.0
+
+https://codepen.io/erika_tech/pen/xxexaYB
