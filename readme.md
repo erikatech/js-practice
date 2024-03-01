@@ -51,6 +51,6 @@ https://codepen.io/erika_tech/pen/gOyYoJG
 
 https://codepen.io/erika_tech/pen/mdgdemv
 
-### 🔤Typing Game v1.0.0
+### 🔤 Typing Game v1.0.0
 
 https://codepen.io/erika_tech/pen/xxexaYB
