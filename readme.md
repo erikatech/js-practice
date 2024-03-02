@@ -58,3 +58,7 @@ https://codepen.io/erika_tech/pen/xxexaYB
 ### 👾 Slot Machine
 
 https://codepen.io/erika_tech/pen/QWPWZPP
+
+### 🔢 Numbers Game
+
+https://codepen.io/erika_tech/pen/ExJaNXY
